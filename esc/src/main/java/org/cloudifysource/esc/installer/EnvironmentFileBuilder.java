@@ -19,7 +19,7 @@ import java.util.Set;
 import java.util.regex.Pattern;
 
 import org.apache.commons.lang.StringUtils;
-import org.cloudifysource.dsl.cloud.ScriptLanguages;
+import org.cloudifysource.domain.cloud.ScriptLanguages;
 
 /*******
  * A simple wrapper around a StringBuilder. Used to generate the contents of the cloudify environment file that is

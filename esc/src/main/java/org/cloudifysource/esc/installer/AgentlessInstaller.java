@@ -29,7 +29,7 @@ import java.util.logging.Logger;
 
 import org.apache.commons.io.FileUtils;
 import org.apache.commons.lang.StringUtils;
-import org.cloudifysource.dsl.cloud.CloudTemplateInstallerConfiguration;
+import org.cloudifysource.domain.cloud.CloudTemplateInstallerConfiguration;
 import org.cloudifysource.dsl.internal.CloudifyConstants;
 import org.cloudifysource.esc.installer.filetransfer.FileTransfer;
 import org.cloudifysource.esc.installer.filetransfer.FileTransferFactory;
